@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>418449162182-ofeohjp05tej24bm0q0rduhpapfpmfmv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.418449162182-ofeohjp05tej24bm0q0rduhpapfpmfmv</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCyRrsrSbzYe35O543oRR34g9M9dvgZVhk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>418449162182</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>fr.imie.fluttercourse.flutterchloenogpoke</string>
+	<key>PROJECT_ID</key>
+	<string>flutterpokechloenoger</string>
+	<key>STORAGE_BUCKET</key>
+	<string>flutterpokechloenoger.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:418449162182:ios:c9d6757ce85e0b6b83fcc7</string>
+	<key>DATABASE_URL</key>
+	<string>https://flutterpokechloenoger.firebaseio.com</string>
+</dict>
+</plist>
